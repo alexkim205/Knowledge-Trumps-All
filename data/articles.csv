@@ -11,62 +11,326 @@
 9,washingtonexaminer,https://www.washingtonexaminer.com/news/poll-shows-senators-who-vote-for-kavanaugh-may-face-midterm-election-trouble,Poll shows senators who vote for Kavanaugh may face midterm election trouble
 10,washingtonexaminer,https://www.washingtonexaminer.com/news/goodlatte-rod-rosenstein-meeting-with-gop-to-happen-hopefully-early-next-week,Goodlatte: Rod Rosenstein meeting with GOP to happen 'hopefully early next week'
 11,washingtonexaminer,https://www.washingtonexaminer.com/news/aclu-issues-rare-opposition-statement-against-brett-kavanaugh,ACLU issues rare opposition statement against Brett Kavanaugh
-12,thehill,http://thehill.com/homenews/administration/409074-the-memo-gop-risks-disaster-with-kavanaugh-midterms,"The Memo: GOP risks disaster with Kavanaugh, midterms"
-13,foxnews,http://www.foxnews.com/politics/2018/09/29/trump-defends-kavanaugh-derides-dems-for-shameful-conduct-bad-things-will-happen-if-voters-stay-home.html,"Trump defends Kavanaugh, derides Dems for shameful conduct: ‘Bad things will happen’ if voters stay home"
-14,foxnews,http://www.foxnews.com/politics/2018/09/29/fbi-contacts-2nd-kavanaugh-accuser-trump-says-extra-scrutiny-may-be-blessing-in-disguise.html,FBI contacts 2nd Kavanaugh accuser; Trump says extra scrutiny may be 'blessing in disguise'
-15,foxnews,http://insider.foxnews.com/2018/09/29/brett-kavanaugh-fbi-probe-bill-cassidy-says-fbi-should-investigate-democrats,Cassidy: FBI Should Investigate Dems' Efforts to Delay Kavanaugh Confirmation
-16,usatoday,http://usatoday.com/story/news/2013/01/09/corrections-clarifications/1821023/,Corrections & Clarifications
-17,usatoday,http://usatoday.com/story/news/politics/2018/09/29/deborah-ramirez-contacted-fbi-allegations-brett-kavanaugh/1472131002/,FBI has contacted Deborah Ramirez about sexual assault allegations by Brett Kavanaugh
-18,usatoday,http://usatoday.com/story/news/politics/2018/09/28/brett-kavanaugh-democrats-try-persuade-jeff-flake-delay-vote/1455713002/,Behind the scenes of the Brett Kavanaugh vote: 'Someone's got to explain this to Trump'
-19,usatoday,http://usatoday.com/story/news/politics/2018/09/28/brett-kavanaugh-week-seen-ample-time-fbi-probe-allegations/1457641002/,"Brett Kavanaugh: A week offers plenty of time for FBI to investigate allegations, former officials say"
-20,usatoday,http://usatoday.com/story/news/politics/2018/09/28/mark-judge-brett-kavanaugh-fbi-investigation/1458168002/,"Mark Judge: Brett Kavanaugh's friend and potential witness, will cooperate with FBI"
-21,usatoday,http://usatoday.com/story/news/politics/2018/09/27/analysis-kavanaugh-ford-comes-down-test-credibility/1440493002/,"Analysis: On Kavanaugh vs. Ford, a Supreme Court showdown hinges on whom you believe"
-22,usatoday,http://usatoday.com/story/news/2018/09/29/judge-south-korean-born-girl-must-leave-us-because-adoption-too-late/1472269002/,Court: Korean-born girl must leave US because she was adopted by her Kansas uncle a year too late
-23,usatoday,http://usatoday.com/story/money/2018/09/29/tesla-elon-musk-settle-sec-over-musk-bid-take-company-private/1474270002/,"Tesla's Elon Musk settles SEC charges, will remain as CEO but relinquish chairman role"
-24,usatoday,http://usatoday.com/story/news/nation/2018/09/28/flu-pandemic-100-years-ago-50-million-died-could-happen-again/1423955002/,"100 years ago, influenza killed as many as 50 million people. Could it happen again today?"
-25,usatoday,http://usatoday.com/story/news/politics/2018/09/29/brett-kavanaugh-fbi-asked-investigate-false-statement/1476218002/,Senate panel asks FBI to investigate person who gave 'false statements' against Kavanaugh
-26,usatoday,http://usatoday.com/story/news/politics/2018/09/29/brett-kavanaugh-more-drama-ahead-fbi-probe-senate-confirmation/1471064002/,Brett Kavanaugh: Looking ahead to what's next for the Supreme Court nominee
-27,usatoday,http://usatoday.com/story/life/entertainthis/2018/09/29/taylor-swift-steps-out-her-boyfriend-joe-alwyns-movie-premiere/1471872002/,Taylor Swift steps out in a sheer dress for rare public outing with boyfriend Joe Alwyn
-28,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/steve-bannon-thinks-michael-avenatti-could-be-threat-trump-avenatti-thinks-so-too/?utm_term=.db853a964cba,"Steve Bannon thinks Michael Avenatti could be a threat to Trump in 2020. Avenatti thinks so, too."
-29,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/flake-flaked-how-fox-news-hosts-reacted-senators-call-delay-kavanaugh-vote/?utm_term=.ab04881d555f,Jeff Flake ‘flaked’: How Sean Hannity and Laura Ingraham reacted to senator’s Kavanaugh maneuver
-30,washingtonpost,https://www.washingtonpost.com/nation/2018/09/29/christine-blasey-fords-testimony-spurred-woman-name-her-alleged-rapist-state-senator-who-denies-accusation/?utm_term=.21b9faa737a6,"Christine Blasey Ford spurred a woman to name her alleged rapist: a state senator, who denies it"
-31,washingtonpost,https://www.washingtonpost.com/business/2018/09/29/teslas-elon-musk-settles-with-sec-paying-million-fine-resigning-board-chairman/,"Tesla’s Elon Musk settles with SEC, paying $20 million fine and resigning as board chairman"
-32,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/aclu-typically-stays-quiet-about-supreme-court-nominees-it-didnt-with-kavanaugh/?utm_term=.6caf284aaf2b,The ACLU typically stays neutral about Supreme Court nominees. It didn’t with Kavanaugh.
-33,washingtonpost,https://www.washingtonpost.com/local/who-is-julie-swetnick-the-third-kavanaugh-accuser/2018/09/26/91e16ed8-c1bc-11e8-97a5-ab1e46bb3bc7_story.html?utm_term=.bff825ac9474,"Who is Julie Swetnick, the third Kavanaugh accuser?"
-34,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/christine-blasey-fords-sisters-in-law-say-kavanaughs-testimony-was-evasive-belligerent/?utm_term=.420893fc281a,Christine Blasey Ford’s sisters-in-law say Kavanaugh’s testimony was confusing and ‘belligerent’
-35,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/least-one-senator-didnt-watch-kavanaugh-hearings-because-an-emergency-appendectomy/?utm_term=.8e0f486f0780,At least one senator didn’t watch the Kavanaugh hearings — because of an emergency appendectomy
-36,washingtonpost,https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/09/28/lil-waynes-tha-carter-v-is-finally-out-heres-what-you-need-to-know/,Lil Wayne’s ‘Tha Carter V’ is finally out. Here’s what you need to know.
-37,washingtonpost,https://www.washingtonpost.com/sports/2018/09/29/europe-extends-its-ryder-cup-lead-over-us-/?utm_term=.b356069f5d58,Europe holds a commanding Ryder Cup lead; pairings announced for Sunday’s singles matches
-38,washingtonpost,https://www.washingtonpost.com/entertainment/jack-black-really-wants-you-to-see-his-new-movie-he-paid-for-it-himself/2018/09/27/1e9a17b4-c0fd-11e8-9005-5104e9616c21_story.html?utm_term=.6231f8a3e58b,Jack Black really wants you to see his new movie. He paid for it himself.
-39,washingtonpost,https://www.washingtonpost.com/sports/2018/09/29/college-football-winners-losers-week-clemson-suddenly-looks-vulnerable/?utm_term=.49c8e92b8695,College football winners and losers Week 5: Clemson suddenly looks vulnerable
-40,washingtonpost,https://www.washingtonpost.com/world/national-security/fbi-reaches-out-to-second-woman-who-has-accused-brett-kavanaugh-of-sexual-misconduct/2018/09/29/365f959c-c3f8-11e8-8f06-009b39c3f6dd_story.html,FBI contacts second woman who has accused Brett Kavanaugh of sexual misconduct
-41,washingtonpost,https://www.washingtonpost.com/politics/courts_law/partisan-politics-and-kavanaughs-defiant-words-put-supreme-court-in-unwelcome-spotlight/2018/09/29/577657e4-c375-11e8-97a5-ab1e46bb3bc7_story.html,Partisan politics and Kavanaugh’s defiant words put Supreme Court in unwelcome spotlight
-42,washingtonpost,https://www.washingtonpost.com/politics/in-west-virginia-trump-turns-kavanaugh-nomination-fight-into-partisan-rallying-cry/2018/09/29/87fb5b2c-c41e-11e8-b338-a3289f6cb742_story.html?utm_term=.c179af21c941,"In West Virginia, Trump turns Kavanaugh nomination fight into partisan rallying cry"
-43,nytimes,http://nytimes.com/2018/09/28/dining/fast-favorites.html,Fast Favorites
-44,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-blasey-metoo-supreme-court.html,"Kavanaugh Battle Shows the Power, and the Limits, of #MeToo Movement"
-45,nytimes,http://nytimes.com/2018/09/28/us/politics/kavanaugh-testimony-supreme-court.html,"A Bitter Nominee, Questions of Neutrality, and a Damaged Supreme Court"
-46,nytimes,http://nytimes.com/interactive/2018/09/28/us/politics/kavanaugh-ford-testimony-investigation.html,Brett Kavanaugh Testimony: Three Inconsistencies the F.B.I. Investigation Could Address
-47,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-republicans-midterms.html,Kavanaugh Could Help G.O.P. in Senate Midterms. But Not in House Races.
-48,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-fbi-inquiry.html,Washington Braces for Battle as F.B.I. Contacts Potential Witnesses to Kavanaugh Claims
-49,nytimes,http://nytimes.com/2018/09/29/us/politics/brett-kavanaugh-trump-men.html,Kavanaugh Borrows From Trump’s Playbook on White Male Anger
-50,nytimes,http://nytimes.com/2018/09/29/business/tesla-musk-sec-settlement.html,Elon Musk Resigns as Tesla Chairman in Settlement With S.E.C.
-51,nytimes,http://nytimes.com/2018/09/29/business/economy/home-prices-housing-market-slowdown.html,"Housing Market Slows, as Rising Prices Outpace Wages"
-52,nytimes,http://nytimes.com/2018/09/29/upshot/mini-recession-2016-little-known-big-impact.html,The Most Important Least-Noticed Economic Event of the Decade
-53,nytimes,http://nytimes.com/2018/09/29/world/asia/indonesia-tsunami-sulawesi-palu.html,"Indonesia Tsunami and Quake Devastate an Island, Killing Hundreds"
-54,nytimes,http://nytimes.com/2018/09/29/health/memorial-sloan-kettering-cancer-biotech-ethics.html,Sloan Kettering Executive Turns Over Windfall Stake in Biotech Start-Up
-55,nytimes,http://nytimes.com/2018/09/29/arts/11-of-our-best-weekend-reads.html,11 of Our Best Weekend Reads
-56,nytimes,http://nytimes.com/2018/09/27/briefing/week-in-good-news-mitraclip-robyn.html,"The Week in Good News: A Medical Breakthrough, a Sound Journey, Robyn"
-57,cnn,http://cnn.com/2017/03/04/vr/how-to-watch-vr,How to Watch VR
-58,cnn,http://cnn.com/2018/09/28/entertainment/murphy-brown-hillary-clinton/index.html,How Hillary Clinton's 'Murphy Brown' cameo came to be
-59,cnn,http://cnn.com/2018/09/28/entertainment/snl-preview/index.html,'SNL' won't have to strain for material in season premiere
-60,cnn,http://cnn.com/2018/09/28/entertainment/night-school-the-oath-tiffany-haddish-review/index.html,"Tiffany Haddish fans: Skip 'Night School,' but take 'The Oath'"
-61,cnn,http://cnn.com/2018/09/28/entertainment/lebron-james-student-athlete/index.html,LeBron James HBO documentary 'Student Athlete' indicts NCAA
-62,cnn,http://cnn.com/2018/09/28/entertainment/sophie-turner-game-thrones-finale/index.html,Sophie Turner: 'Game of Thrones' viewers will be divided over show's ending
-63,cnn,http://cnn.com/2018/09/28/entertainment/god-friended-me-review/index.html,'God Friended Me' makes request for continued viewing
-64,cnn,http://cnn.com/2018/09/28/entertainment/netflix-hulu-amazon-october/index.html,See what's streaming in October
-65,cnn,http://cnn.com/2018/09/27/entertainment/smallfoot-review/index.html,'Smallfoot' takes animated steps in the right direction
-66,cnn,http://cnn.com/2018/09/28/entertainment/lil-wayne-new-album/index.html,Lil Wayne released 'Tha Carter V'
-67,cnn,http://cnn.com/2018/09/28/entertainment/jwoww-husband-divorce/index.html,"JWoww, Roger divorce: 'Jersey Shore' star's husband vows to win her back"
-68,cnn,http://cnn.com/2018/09/27/entertainment/tom-hanks-mister-rogers/index.html,The first picture of Tom Hanks as Mister Rogers is what you need today
-69,cnn,http://cnn.com/2018/09/28/entertainment/rose-mcgowan-asia-argento/index.html,Rose McGowan apologizes to Asia Argento
-70,cnn,http://cnn.com/2018/09/27/entertainment/lil-xan-cheetos/index.html,Lil Xan can't stay away from Flamin' Hot Cheetos
+12,washingtonexaminer,https://www.washingtonexaminer.com/news/congress/bill-cassidy-calls-for-fbi-investigation-into-brett-kavanaugh-to-check-into-democrats,Bill Cassidy calls for FBI investigation into Brett Kavanaugh to check into Democrats
+13,washingtonexaminer,https://www.washingtonexaminer.com/opinion/columnists/is-july-1-1982-party-key-to-christine-ford-allegation-against-brett-kavanaugh,"Is July 1, 1982 party key to Christine Ford's allegation against Brett Kavanaugh?"
+14,washingtonexaminer,https://www.washingtonexaminer.com/opinion/editorials/kavanaugh-vs-ford-another-week-of-torturing-the-truth,Kavanaugh vs Ford — another week of torturing the truth
+15,washingtonexaminer,https://www.washingtonexaminer.com/opinion/as-the-kavanaugh-debacle-shows-the-metoo-culture-is-unfair-to-men,"As the Kavanaugh debacle shows, the #MeToo culture is unfair to men"
+16,washingtonexaminer,https://www.washingtonexaminer.com/opinion/op-eds/douglass-county-heres-how-dc-can-gain-congressional-representation-through-retrocession-to-maryland,Douglass County: Here's how DC can gain congressional representation through retrocession to Maryland
+17,washingtonexaminer,https://www.washingtonexaminer.com/red-alert-politics/college-football-week-5-three-games-to-watch,College football week 5: Three games to watch
+18,washingtonexaminer,https://www.washingtonexaminer.com/news/campaigns/in-tight-re-election-battle-scott-walker-doesnt-see-trumps-predicted-red-wave-in-wisconsin,"In tight re-election battle, Scott Walker doesn't see Trump's predicted 'red wave' in Wisconsin"
+19,washingtonexaminer,https://www.washingtonexaminer.com/opinion/columnists/byron-york-the-ford-kavanaugh-hearing-took-a-lot-of-work-to-arrange-democrats-want-to-scrap-it,Byron York: The Ford-Kavanaugh hearing took a lot of work to arrange. Democrats want to scrap it
+20,washingtonexaminer,https://www.washingtonexaminer.com/policy/technology/facebook-reveals-security-issue-affecting-50-million-people,Facebook reveals security breach affecting 50 million users
+21,washingtonexaminer,https://www.washingtonexaminer.com/business/google-ceo-to-testify-before-house-judiciary-as-bias-concerns-mount,Google CEO to testify before House Judiciary as bias concerns mount
+22,washingtonexaminer,https://www.washingtonexaminer.com/business/sec-opens-case-against-tesla-founder-elon-musk,SEC opens fraud case against Tesla founder Elon Musk
+23,washingtonexaminer,https://www.washingtonexaminer.com/news/north-korea-us-needs-to-build-our-trust-and-sanctions-lower-it,"North Korea: US needs to build our trust, and sanctions lower it"
+24,washingtonexaminer,https://www.washingtonexaminer.com/news/syria-north-korea-to-have-their-say-at-un-gathering,"Syria, North Korea to have their say at UN gathering"
+25,washingtonexaminer,https://www.washingtonexaminer.com/policy/defense-national-security/russia-no-proof-that-iran-backs-terrorism,Russia: No proof that Iran backs terrorism
+26,washingtonexaminer,https://www.washingtonexaminer.com/policy/healthcare/democrats-to-push-for-more-opioid-funding-if-they-take-the-house,Democrats to push for more opioid funding if they take the House
+27,washingtonexaminer,https://www.washingtonexaminer.com/policy/energy/epa-placed-head-of-its-childrens-health-office-on-leave-to-review-allegations,EPA placed head of its children's health office on leave to review 'allegations'
+28,washingtonexaminer,https://www.washingtonexaminer.com/policy/healthcare/bill-to-battle-opioid-epidemic-overwhelmingly-passes-the-house,Bill to battle opioid epidemic overwhelmingly passes the House
+29,washingtonexaminer,https://www.washingtonexaminer.com/daily-on-healthcare-house-to-vote-today-on-opioids-package-kavanaugh-boosted-by-flake-backing,Daily on Healthcare: House to vote today on opioids package…Kavanaugh boosted by Flake backing…
+30,washingtonexaminer,https://www.washingtonexaminer.com/policy/energy/ryan-zinke-naval-blockade-is-an-option-for-dealing-with-russia,Ryan Zinke: Naval blockade is an option for dealing with Russia
+31,washingtonexaminer,https://www.washingtonexaminer.com/policy/energy/trump-administration-pushes-to-relax-fuel-rules-even-as-it-predicts-the-earth-will-get-warmer,Trump administration pushes to relax fuel rules even as it predicts the Earth will get warmer
+32,washingtonexaminer,https://www.washingtonexaminer.com/opinion/women-belong-in-the-boardroom-but-not-because-the-government-forces-it,Women belong in the boardroom — but not because the government forces it
+33,washingtonexaminer,https://www.washingtonexaminer.com/policy/economy/sec-bars-founder-of-lending-company-from-securities-industry,SEC bars founder of lending company from securities industry
+34,washingtonexaminer,https://www.washingtonexaminer.com/policy/economy/white-house-to-release-text-of-us-mexico-nafta-deal,White House to release text of US-Mexico NAFTA deal
+35,washingtonexaminer,https://www.washingtonexaminer.com/news/kavanaugh-approved-by-senate-panel-but-flake-demands-a-week-before-floor-vote,"Flake backtracks, creates new delay for Kavanaugh"
+36,washingtonexaminer,https://www.washingtonexaminer.com/news/congress/4-democratic-senators-walk-out-of-brett-kavanaughs-confirmation-vote,4 Democratic senators walk out of Brett Kavanaugh's confirmation vote
+37,washingtonexaminer,https://www.washingtonexaminer.com/news/watch-live-examining-youngstown-innovation-through-advanced-manufacturing,Watch Live | Examining Youngstown: Innovation Through Advanced Manufacturing
+38,washingtonexaminer,https://www.washingtonexaminer.com/news/the-fbi-does-not-reach-conclusions-in-sexual-misconduct-investigations-joe-biden-said-in-1991,"The FBI does 'not reach conclusions' in sexual misconduct investigations, Joe Biden said in 1991"
+39,washingtonexaminer,https://www.washingtonexaminer.com/videos/policy-bosses-electricity-boss-doesnt-buy-trumps-coal-bailout,Policy Bosses: Electricity boss doesn't buy Trump's coal bailout
+40,washingtonexaminer,https://www.washingtonexaminer.com/videos/kristen-soltis-anderson-joins-wsb-radios-erick-erickson-for-more-on-washington-examiners-upcoming-sea-island-political-summit,Learn more about the Washington Examiner's upcoming Sea Island Political Summit
+41,washingtonexaminer,https://www.washingtonexaminer.com/videos/examining-politics-the-democrats-plan-of-attack-against-brett-kavanaugh,Examining Politics: The Democrats' plan of attack against Brett Kavanaugh
+42,washingtonexaminer,https://www.washingtonexaminer.com/videos/ahead-of-the-trend-the-future-of-voting-in-the-united-states,Ahead of the Trend: The future of voting in the United States
+43,washingtonexaminer,https://www.washingtonexaminer.com/videos/salena-zito-bridging-the-partisan-gap,Salena Zito: Bridging the partisan gap
+44,washingtonexaminer,https://www.washingtonexaminer.com/videos/salena-zito-are-special-elections-special,Salena Zito: Are special elections special?
+45,washingtonexaminer,https://www.washingtonexaminer.com/news/congress/mitch-mcconnell-close-senate-races-like-a-knife-fight-in-an-alley,McConnell: Close Senate races like a 'knife fight in an alley'
+46,washingtonexaminer,https://www.washingtonexaminer.com/opinion/columnists/byron-york-ralphing-fart-jokes-and-the-fffff-word-sen-whitehouses-star-turn-at-kavanaugh-hearing,"Byron York: Ralphing, fart jokes, and the FFFFF-word: Sen. Whitehouse's star turn at Kavanaugh hearing"
+47,thehill,http://thehill.com/homenews/administration/409074-the-memo-gop-risks-disaster-with-kavanaugh-midterms,"The Memo: GOP risks disaster with Kavanaugh, midterms"
+48,thehill,http://thehill.com/policy/finance/408994-how-the-trump-tax-law-passed-the-lobbying-frenzy,How the Trump tax law passed: The lobbying frenzy
+49,thehill,http://thehill.com/homenews/campaign/409033-dem-governor-hopefuls-see-winning-issue-in-medicaid-expansion,Dem governor hopefuls see winning issue in Medicaid expansion
+50,thehill,http://thehill.com/homenews/senate/409043-kavanaugh-confirmation-faces-fresh-uncertainties,Kavanaugh confirmation faces fresh uncertainties
+51,thehill,http://thehill.com/homenews/senate/409054-how-flake-came-to-secure-kavanaugh-delay,How Flake came to secure Kavanaugh delay
+52,thehill,http://thehill.com/homenews/news/409089-american-bar-association-questioned-kavanaughs-professional-experience-freedom,Call for FBI probe draws attention to association's past Kavanaugh concerns
+53,thehill,http://thehill.com/homenews/senate/409088-fbi-reaches-out-to-kavanaugh-accuser-deborah-ramirez,FBI reaches out to second Kavanaugh accuser Deborah Ramirez
+54,thehill,http://thehill.com/homenews/senate/409077-flake-plans-to-support-kavanaugh-after-fbi-investigates-unless-they-turn-up,Flake plans to support Kavanaugh after FBI investigates ‘unless they turn up something’
+55,thehill,http://thehill.com/homenews/senate/409041-lawyer-for-kavanaugh-accuser-fbi-probe-should-not-have-artificial-limits,Lawyer for Kavanaugh accuser: FBI probe should not have 'artificial' limits
+56,thehill,http://thehill.com/homenews/house/409082-pelosi-on-impeaching-kavanaugh-if-hes-lying-hes-not-fit-for-court-hes-on-now,Pelosi on impeaching Kavanaugh: If he's lying 'he's not fit' for court he's on now
+57,thehill,http://thehill.com/policy/international/409087-rebel-attacks-threaten-to-help-ebola-spread-across-border,Rebel attacks threaten to help Ebola spread across border
+58,thehill,http://thehill.com/blogs/blog-briefing-room/news/409100-white-house-limiting-scope-of-fbi-investigation,White House limiting scope of FBI investigation: report
+59,thehill,http://thehill.com/policy/technology/409099-elon-musk-to-step-down-as-chairman-of-tesla,Elon Musk to step down as chairman of Tesla
+60,thehill,http://thehill.com/blogs/blog-briefing-room/news/409097-track-palin-arrested-on-new-domestic-violence-charges-appears,"Track Palin arrested on new domestic violence charges, appears in court"
+61,thehill,http://thehill.com/homenews/senate/409098-trump-renews-attack-against-blumenthal,Trump renews attack against Dem Sen. Blumenthal
+62,thehill,http://thehill.com/blogs/in-the-know/in-the-know/409094-stephen-king-on-kavanaugh-hearing-ask-yourself-who-has-more,Stephen King on Kavanaugh hearing: 'Ask yourself who has more motivation for lying'
+63,thehill,http://thehill.com/homenews/campaign/409095-warren-i-will-consider-running-for-president-after-the-midterms,Warren: I will consider running for president after the midterms
+64,thehill,http://thehill.com/opinion/judiciary/409076-modern-witch-hunt-brett-kavanaugh-as-john-proctor-from-the-crucible,Modern witch hunt: Brett Kavanaugh as John Proctor from 'The Crucible'
+65,thehill,http://thehill.com/homenews/senate/409093-poll-shows-split-views-on-kavanaugh-ford-after-dramatic-hearing,"Poll shows split views on Kavanaugh, Ford after dramatic hearing"
+66,thehill,http://thehill.com/blogs/in-the-know/in-the-know/409092-jason-isbell-talks-support-for-dem-senate-candidate-says-jesus,"Jason Isbell talks support for Dem Senate candidate, says 'Jesus would not have voted' for Trump"
+67,thehill,http://thehill.com/business-a-lobbying/409062-kavanaugh-1982-calendar-entry-could-be-examined-in-fbi-investigation,Kavanaugh 1982 calendar entry could be examined in FBI investigation
+68,thehill,http://thehill.com/homenews/senate/409072-sanders-calls-for-fbi-to-investigate-whether-kavanaugh-told-truth-in-hearing,Bernie Sanders calls for FBI to investigate whether Kavanaugh told truth in hearing
+69,thehill,http://thehill.com/homenews/media/409073-bill-maher-thanks-bannon-for-appearing-on-show-says-volumes-why-republicans,Bill Maher thanks Bannon for appearing on show: 'Says volumes why Republicans are in power and we have none'
+70,thehill,http://thehill.com/homenews/senate/409015-kavanaugh-friend-will-cooperate-with-confidential-law-enforcement,Kavanaugh friend says he'll cooperate with 'confidential' law enforcement investigation
+71,thehill,http://thehill.com/homenews/media/409063-cbs-subpoenaed-over-moonves-allegations,CBS subpoenaed over Moonves allegations
+72,thehill,http://thehill.com/policy/international/asia-pacific/409083-north-korea-no-way-we-will-disarm-without-trust-with-us,North Korea: 'No way' we will disarm without trust in US
+73,thehill,http://thehill.com/policy/international/middle-east-north-africa/409086-iranian-diplomat-accuses-netanyahu-of,Iranian diplomat accuses Netanyahu of 'smokescreen' with secret nuclear facility claims
+74,thehill,http://thehill.com/homenews/administration/409059-trump-admin-asks-court-to-block-deposition-for-wilbur-ross-in-2020,Trump admin asks court to block deposition for Wilbur Ross in 2020 census case
+75,thehill,http://thehill.com/policy/finance/409056-top-cfpb-official-blasts-colleague-over-blog-posts-dismissing-racism,Top consumer bureau official blasts colleague over blog posts dismissing racism
+76,thehill,http://thehill.com/homenews/senate/409061-biden-hits-gop-for-invective-blind-rage-and-brute-partisanship-in-kavanaugh,"Biden hits GOP for 'invective, blind rage and brute partisanship' in Kavanaugh hearing"
+77,thehill,http://thehill.com/opinion/campaign/409080-the-texas-senate-race-should-frighten-the-republican-party,The Texas Senate race should frighten the Republican Party
+78,thehill,http://thehill.com/blogs/in-the-know/in-the-know/409052-samuel-l-jackson-responds-to-viral-kavanaugh-pulp-fiction-clip,"Samuel L. Jackson responds to viral Kavanaugh, 'Pulp Fiction' clip"
+79,thehill,http://thehill.com/opinion/energy-environment/409002-the-global-climate-refugee-crisis-has-already-begun,The global climate refugee crisis has already begun
+80,thehill,http://thehill.com/opinion/technology/408993-on-the-cusp-of-a-transformational-space-technology,On the cusp of a transformational space technology
+81,thehill,http://thehill.com/opinion/immigration/408813-immigration-under-trump-if-you-cant-afford-it-dont-come,"Immigration under Trump: If you can’t afford it, don’t come"
+82,washingtontimes,http://washingtontimes.com/news/2018/sep/29/trump-fbi-probe-could-be-blessing-disguise-suggest/,"Trump: FBI probe 'could be a blessing in disguise,' suggests Feinstein leaked Kavanaugh allegation"
+83,washingtontimes,http://washingtontimes.com/news/2018/sep/29/donald-trump-mocks-dianne-feinstein-her-body-langu/,Donald Trump mocks Dianne Feinstein: Her ‘body language’ suggests she’s anti-Kavanaugh leaker
+84,washingtontimes,http://washingtontimes.com/news/2018/sep/29/leland-keyser-to-tell-fbi-she-has-no-knowledge-of-/,Leland Keyser to tell FBI she has no knowledge of Kavanaugh or party
+85,washingtontimes,http://washingtontimes.com/news/2018/sep/28/gop-agrees-week-long-delay-kavanaugh/,Trump orders FBI to probe Supreme Court nominee Kavanaugh
+86,washingtontimes,http://washingtontimes.com/news/2018/sep/29/muellers-office-cites-watergate-precedent-support-/,Mueller's office cites Watergate precedent in defending special counsel's authority
+87,washingtontimes,http://washingtontimes.com/news/2018/sep/27/poland-fort-trump-offer-aims-cement-us-military-ti/,Poland ‘Fort Trump’ offer aims to cement U.S. military ties
+88,washingtontimes,http://washingtontimes.com/news/2018/sep/27/kirsten-gillibrand-2020-democrats-latch-christine-/,"Kirsten Gillibrand, 2020 Democrats latch onto Christine Blasey Ford’s political coattails"
+89,washingtontimes,http://washingtontimes.com/news/2018/sep/29/syria-demands-us-foreign-troops-withdraw/,"Syria demands U.S., foreign troops withdraw"
+90,washingtontimes,http://washingtontimes.com/news/2018/sep/27/house-judiciary-committee-subpoenas-mccabe-memos/,House Judiciary Committee subpoenas McCabe memos
+91,washingtontimes,http://washingtontimes.com/news/2018/sep/27/glenn-simpson-fusion-gps-co-founder-refuses-speak-/,"Glenn Simpson, Fusion GPS co-founder, refuses to speak to House investigators"
+92,washingtontimes,http://washingtontimes.com/news/2018/sep/29/donald-trump-jokes-he-and-kim-jong-un-fell-love/,Donald Trump jokes he and Kim Jong-un ‘fell in love’
+93,washingtontimes,http://washingtontimes.com/news/2018/sep/29/chuck-grassley-asks-fbi-probe-false-allegation-aga/,Chuck Grassley asks FBI to probe false allegation against Brett Kavanaugh
+94,washingtontimes,http://washingtontimes.com/news/2018/sep/29/nancy-pelosi-slams-hysterical-brett-kavanaugh-disc/,"Nancy Pelosi slams ‘hysterical’ Brett Kavanaugh, discusses potential impeachment proceedings"
+95,washingtontimes,http://washingtontimes.com/news/2018/sep/29/upcoming-supreme-court-term-lacking-blockbusters/,Upcoming Supreme Court term lacking blockbusters
+96,washingtontimes,http://washingtontimes.com/news/2018/sep/29/andrew-gillum-campaign-loses-manny-orozco-ballesta/,Andrew Gillum campaign loses Manny Orozco-Ballestas after offensive tweets emerge
+97,washingtontimes,http://washingtontimes.com/news/2018/sep/29/at-72-cher-enjoying-a-creative-patch-with-tour-cd-/,Cher admits wanting to get Kennedy honor during Obama years
+98,washingtontimes,http://washingtontimes.com/news/2018/sep/28/lindsey-graham-unfazed-by-anti-kavanaugh-activists/,Lindsey Graham unfazed by anti-Kavanaugh activists: ‘These people can yell all they want’
+99,washingtontimes,http://washingtontimes.com/news/2018/sep/28/nancy-pelosi-trump-trying-break-metoo-movement/,Nancy Pelosi: Trump trying to ‘break the #MeToo movement’
+100,washingtontimes,http://washingtontimes.com/news/2018/sep/28/judge-allows-democratic-emoluments-lawsuit-proceed/,Judge allows Democratic 'emoluments' lawsuit to proceed against Trump
+101,washingtontimes,http://washingtontimes.com/news/2018/sep/28/capitals-look-sharp-lose-overtime-hurricanes/,"Capitals’ top players look sharp, but Hurricanes win in overtime"
+102,washingtontimes,http://washingtontimes.com/news/2018/sep/27/bryce-harper-had-keys-to-the-city-but-never-fully-/,"Bryce Harper had keys to the city, but never fully opened the door"
+103,washingtontimes,http://washingtontimes.com/news/2018/sep/27/nfl-teams-content-ditching-initial-plans-start-roo/,NFL teams content with ditching initial plans to start rookie QBs
+104,washingtontimes,http://washingtontimes.com/news/2018/sep/27/trea-turner-realizing-his-potential-unique-skill-s/,Trea Turner realizing his potential with unique skill set
+105,washingtontimes,http://washingtontimes.com/news/2018/sep/29/tesla-ceo-elon-musk-company-settle-fraud-suit-for-/,"Tesla CEO Elon Musk, company settle fraud suit for $40M; he steps down as chairman"
+106,washingtontimes,http://washingtontimes.com/news/2018/sep/29/womens-march-announces-2019-rally-wake-kavanaugh-a/,Women's March announces 2019 rally in wake of Kavanaugh allegations
+107,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/leland-keyser-to-tell-fbi-she-has-no-knowledge-of-/,Leland Keyser to tell FBI she has no knowledge of Kavanaugh or party
+108,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/chuck-grassley-asks-fbi-probe-false-allegation-aga/,Chuck Grassley asks FBI to probe false allegation against Brett Kavanaugh
+109,washingtontimes,http://www.washingtontimes.com/news/2018/sep/20/cory-bookers-1992-column-detailing-groping-high-sc/,Cory Booker's 1992 column detailing 'groping' of high school friend resurfaces
+110,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/muellers-office-cites-watergate-precedent-support-/,Mueller's office cites Watergate precedent in defending special counsel's authority
+111,washingtontimes,http://www.washingtontimes.com/news/2018/sep/22/christine-blasey-ford-could-indeed-be-lying/,Christine Blasey Ford could indeed be lying
+112,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/nancy-pelosi-slams-hysterical-brett-kavanaugh-disc/,"Nancy Pelosi slams ‘hysterical’ Brett Kavanaugh, discusses potential impeachment proceedings"
+113,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/trump-fbi-probe-could-be-blessing-disguise-suggest/,"Trump: FBI probe 'could be a blessing in disguise,' suggests Feinstein leaked Kavanaugh allegation"
+114,washingtontimes,http://www.washingtontimes.com/news/2018/sep/27/gofundme-pages-christine-blasey-ford-exceed-goals/,GoFundMe pages for Christine Blasey Ford soar past goals as she testifies to Judiciary Committee
+115,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/steve-bannon-predicts-impeachment-president-trump-/,Steve Bannon predicts impeachment for President Trump pending midterm results
+116,washingtontimes,http://www.washingtontimes.com/news/2018/sep/29/andrew-gillum-campaign-loses-manny-orozco-ballesta/,Andrew Gillum campaign loses Manny Orozco-Ballestas after offensive tweets emerge
+117,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/trump-defends-kavanaugh-derides-dems-for-shameful-conduct-bad-things-will-happen-if-voters-stay-home.html,"Trump defends Kavanaugh, derides Dems for shameful conduct: ‘Bad things will happen’ if voters stay home"
+118,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/fbi-contacts-2nd-kavanaugh-accuser-trump-says-extra-scrutiny-may-be-blessing-in-disguise.html,FBI contacts 2nd Kavanaugh accuser; Trump says extra scrutiny may be 'blessing in disguise'
+119,foxnews.com/politics,http://insider.foxnews.com/2018/09/29/brett-kavanaugh-fbi-probe-bill-cassidy-says-fbi-should-investigate-democrats,Cassidy: FBI Should Investigate Dems' Efforts to Delay Kavanaugh Confirmation
+120,foxnews.com/politics,http://insider.foxnews.com/2018/09/29/jeff-flake-calls-brett-kavanaugh-fbi-investigation-dan-bongino-reacts,'Jeff Flake Has No Spine': Bongino Says Lawmaker 'Sold Out the GOP' With Call for Kavanaugh Probe
+121,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/flake-defends-call-for-kavanaugh-delay-were-coming-apart-at-seams.html,Flake defends call for Kavanaugh delay: 'We're coming apart at the seams'
+122,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/maryland-authorities-say-theyll-investigate-kavanaugh-if-victim-files-complaint.html,Maryland authorities say they'll investigate Kavanaugh -- if a victim files a complaint
+123,foxnews.com/politics,http://www.foxnews.com/entertainment/2018/09/29/usa-today-hit-piece-says-kavanaugh-should-stay-off-basketball-courts-when-kids-are-around.html,USA Today hit piece says Kavanaugh should 'stay off basketball courts when kids are around'
+124,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/graham-says-mccains-anger-at-kavanaugh-hearing-would-have-made-me-look-like-choir-boy.html,Graham says McCain's anger at Kavanaugh hearing 'would have made me look like a choir boy'
+125,foxnews.com/politics,http://www.foxnews.com/politics/2018/08/21/who-is-patrick-morrisey-look-at-west-virginia-senate-hopeful.html,Who is Patrick Morrisey? A look at the West Virginia Senate hopeful
+126,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/white-house-limits-fbis-kavanaugh-inquiry-to-2-3-accusers-report.html,White House limits FBI's Kavanaugh inquiry to 2 of 3 accusers: report
+127,foxnews.com/politics,http://www.foxnews.com/opinion/2018/09/29/kavanaugh-horror-show-is-what-washington-will-look-like-if-democrats-take-back-power.html,Kavanaugh hearing is what Washington will look like if Democrats take back power
+128,foxnews.com/politics,http://insider.foxnews.com/2018/09/29/brett-kavanaugh-friend-high-school-reacts-hearings-fbi-investigation,"'It Was Heartbreaking': Friend of Kavanaugh Reacts to Hearings, FBI Probe"
+129,foxnews.com/politics,http://www.foxnews.com/opinion/2018/09/29/steve-hilton-kavanaugh-hearing-shows-divisive-democrats-must-be-defeated-before-destroy-america.html,Steve Hilton: Kavanaugh hearing shows divisive Democrats must be defeated before they destroy America
+130,foxnews.com/politics,http://www.foxnews.com/opinion/2018/09/29/john-fund-kavanaugh-debate-is-exactly-why-our-founders-thought-early-voting-was-bad-idea.html,John Fund: Kavanaugh debate is exactly why our founders thought early voting was a bad idea
+131,foxnews.com/politics,http://insider.foxnews.com/2018/09/28/brett-kavanaugh-christine-ford-michael-avenatti-claims-lead-partisan-circus-ted-cruz-says,'This Is About Smears': Cruz Says Kavanaugh Confirmation Has Become 'a Partisan Circus'
+132,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/washington-man-gets-prison-for-overharvesting-sea-cucumbers.html,Washington man gets prison for overharvesting sea cucumbers
+133,foxnews.com/politics,http://www.foxnews.com/food-drink/2018/09/28/georgias-breakfast-buffet-bandit-no-longer-freeloading-at-area-hotels-but-still-at-large-police-say.html,"Georgia's breakfast-buffet 'bandit' no longer freeloading at area hotels, but still at large, police say"
+134,foxnews.com/politics,http://www.foxnews.com/food-drink/2018/09/28/freak-accident-at-jack-in-box-drive-thru-kills-missouri-man-20.html,"Freak accident at Jack in the Box drive-thru kills Missouri man, 20"
+135,foxnews.com/politics,http://www.foxnews.com/politics/2018/09/29/russia-north-korea-use-un-general-assembly-to-blast-us.html,"Russia, North Korea use UN General Assembly to blast US"
+136,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/barrier-collapse-at-global-citizen-festival-in-central-park-sends-thousands-into-panic.html,Barrier collapse at Global Citizen Festival in Central Park sends thousands into panic
+137,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/graphic-photos-texas-man-disfigured-by-savage-dog-attack.html,Graphic photos: Texas man disfigured by savage dog attack
+138,foxnews.com/politics,http://www.foxnews.com/sports/2018/09/29/david-wright-walks-off-to-long-ovation-in-farewell-game-with-mets.html,David Wright walks off to long ovation in farewell game with Mets
+139,foxnews.com/politics,http://www.foxnews.com/entertainment/2018/09/29/kanye-west-announces-his-new-name-is-ye-ahead-snl-appearance.html,Kanye West announces his new name is 'Ye' ahead of 'SNL' appearance
+140,foxnews.com/politics,http://www.foxnews.com/entertainment/2018/09/29/season-7-last-man-standing-debuts-on-new-network-fox-to-big-friday-night-ratings.html,"Season 7 of ‘Last Man Standing’ debuts on new network, Fox, to big Friday-night ratings"
+141,foxnews.com/politics,http://insider.foxnews.com/2018/09/29/nancy-pelosi-calls-republicans-despicable-misleading-fundraising-email,LOOK: Pelosi Calls Republicans 'Despicable' in Misleading Fundraising Email
+142,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/sarah-palins-eldest-son-track-arrested-on-domestic-violence-charges-police.html,"Sarah Palin's eldest son, Track, arrested on domestic violence charges: police"
+143,foxnews.com/politics,http://www.foxnews.com/entertainment/2018/09/29/lindsay-lohan-gets-punched-in-face-after-accusing-refugee-parents-trafficking-trying-to-take-kids.html,"Lindsay Lohan gets punched in the face after accusing refugee parents of trafficking, trying to take the kids"
+144,foxnews.com/politics,http://insider.foxnews.com/2018/09/29/barbra-streisand-blasts-president-trump-song-walls-album,'Don't Lie to Me': Barbra Streisand Blasts President Trump in Song Off 'Walls' Album
+145,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/florida-woman-arrested-in-hot-car-death-1-year-old-daughter.html,Florida woman arrested in hot-car death of 1-year-old daughter
+146,foxnews.com/politics,http://www.foxnews.com/us/2018/09/29/two-police-officers-dead-following-confrontation-in-mississippi.html,Two police officers killed after shootout in Mississippi
+147,foxnews.com/politics,https://radio.foxnews.com/2018/09/29/whats-in-a-name-u-s-warns-of-russian-meddling-as-macedonia-mulls-a-switch/,What’s In A Name? U.S. Warns Of Russian Meddling As Macedonia Mulls A Switch
+148,foxnews.com/politics,http://www.foxnews.com/travel/2018/09/29/nyc-airport-workers-to-earn-nations-highest-minimum-wage.html,NYC airport workers to earn nation's highest minimum wage
+149,foxnews.com/politics,http://www.foxnews.com/travel/2018/09/29/where-to-see-best-fall-foliage-across-country.html,Where to see the best fall foliage across the country
+150,foxnews.com/politics,http://www.foxnews.com/health/2018/09/29/florida-mom-claims-newborn-mistakenly-breastfed-by-another-woman.html,Florida mom claims newborn mistakenly breastfed by another woman
+151,foxnews.com/politics,http://www.foxnews.com/lifestyle/2018/09/29/canadian-woman-s-text-to-wrong-number-brings-kind-stranger-to-family-wake.html,Canadian woman’s text to the wrong number brings a kind stranger to family wake
+152,foxnews.com/politics,http://www.foxnews.com/opinion/2018/09/29/media-scrutinizes-kavanaugh-but-gives-ted-cruz-challenger-pass.html,Media scrutinizes Kavanaugh but gives Ted Cruz challenger a pass
+153,usatoday,http://usatoday.com/story/news/2013/01/09/corrections-clarifications/1821023/,Corrections & Clarifications
+154,usatoday,http://usatoday.com/story/news/politics/2018/09/29/deborah-ramirez-contacted-fbi-allegations-brett-kavanaugh/1472131002/,FBI has contacted Deborah Ramirez about sexual assault allegations by Brett Kavanaugh
+155,usatoday,http://usatoday.com/story/news/politics/2018/09/28/brett-kavanaugh-democrats-try-persuade-jeff-flake-delay-vote/1455713002/,Behind the scenes of the Brett Kavanaugh vote: 'Someone's got to explain this to Trump'
+156,usatoday,http://usatoday.com/story/news/politics/2018/09/28/brett-kavanaugh-week-seen-ample-time-fbi-probe-allegations/1457641002/,"Brett Kavanaugh: A week offers plenty of time for FBI to investigate allegations, former officials say"
+157,usatoday,http://usatoday.com/story/news/politics/2018/09/28/mark-judge-brett-kavanaugh-fbi-investigation/1458168002/,"Mark Judge: Brett Kavanaugh's friend and potential witness, will cooperate with FBI"
+158,usatoday,http://usatoday.com/story/news/politics/2018/09/27/analysis-kavanaugh-ford-comes-down-test-credibility/1440493002/,"Analysis: On Kavanaugh vs. Ford, a Supreme Court showdown hinges on whom you believe"
+159,usatoday,http://usatoday.com/story/news/2018/09/29/judge-south-korean-born-girl-must-leave-us-because-adoption-too-late/1472269002/,Court: Korean-born girl must leave US because she was adopted by her Kansas uncle a year too late
+160,usatoday,http://usatoday.com/story/money/2018/09/29/tesla-elon-musk-settle-sec-over-musk-bid-take-company-private/1474270002/,"Tesla's Elon Musk settles SEC charges, will remain as CEO but relinquish chairman role"
+161,usatoday,http://usatoday.com/story/news/nation/2018/09/28/flu-pandemic-100-years-ago-50-million-died-could-happen-again/1423955002/,"100 years ago, influenza killed as many as 50 million people. Could it happen again today?"
+162,usatoday,http://usatoday.com/story/news/politics/2018/09/29/brett-kavanaugh-fbi-asked-investigate-false-statement/1476218002/,Senate panel asks FBI to investigate person who gave 'false statements' against Kavanaugh
+163,usatoday,http://usatoday.com/story/news/politics/2018/09/29/brett-kavanaugh-more-drama-ahead-fbi-probe-senate-confirmation/1471064002/,Brett Kavanaugh: Looking ahead to what's next for the Supreme Court nominee
+164,usatoday,http://usatoday.com/story/life/entertainthis/2018/09/29/taylor-swift-steps-out-her-boyfriend-joe-alwyns-movie-premiere/1471872002/,Taylor Swift steps out in a sheer dress for rare public outing with boyfriend Joe Alwyn
+165,usatoday,http://usatoday.com/story/news/politics/2018/09/29/ron-johnson-suggests-christine-blasey-ford-may-have-false-memories/1471571002/,GOP senator suggests Christine Blasey Ford may have 'false memories' of alleged assault
+166,usatoday,http://usatoday.com/story/sports/ncaaf/bigten/2018/09/29/juwan-johnson-catch-penn-state-ohio-state/1476328002/,Penn State WR Juwan Johnson nabs one-handed catch of the year nominee vs. Ohio State
+167,usatoday,http://usatoday.com/story/news/politics/2018/09/29/elizabeth-warren-taking-hard-look-presidential-run/1474733002/,Elizabeth Warren says she'll 'take a hard look at running for president' after midterms
+168,usatoday,http://usatoday.com/story/sports/golf/ryder/2018/09/29/ryder-cup-usa-fans-full-force-despite-teams-struggles-paris/1472198002/,Team USA fans fight to be heard at Ryder Cup amid European roars
+169,usatoday,http://usatoday.com/story/sports/ncaaf/sec/2018/09/29/jimbo-fisher-grabs-facemask-texas-am-player-during-arkansas-scuffle/1473350002/,Texas A&M coach Jimbo Fisher yanks his player by facemask after scuffle against Arkansas
+170,usatoday,http://usatoday.com/story/news/nation-now/2018/09/29/shark-attack-injures-teenage-boy-southern-california-beach/1472467002/,"Shark attack injures boy, 13, at Southern California beach"
+171,usatoday,http://usatoday.com/story/sports/mlb/bluejays/2018/09/29/blue-jays-catcher-russell-martin-manage-toronto-game-john-gibbons/1473599002/,"Blue Jays catcher Russell Martin will step in for John Gibbons, manage season finale"
+172,usatoday,http://usatoday.com/story/news/2018/09/29/anthony-bourdain-course-served-up-university-louisiana/1472710002/,A class on Anthony Bourdain? Yep. It's a thing.
+173,usatoday,http://usatoday.com/story/sports/golf/ryder/2018/09/29/ryder-cup-final-pairings-expert-picks/1470926002/,Ryder Cup final pairings and expert picks: Will the United States retain the trophy?
+174,usatoday,http://usatoday.com/story/travel/experience/america/fifty-states/2018/09/28/best-gas-station-coffee-gasbuddy/1451644002/,Best gas-station coffee in all 50 states
+175,usatoday,http://usatoday.com/picture-gallery/life/people/2018/09/24/100-best-celebrity-photos-september-2018-emmys-nyfw-and-more/1302187002/,100 best celebrity photos of September 2018
+176,usatoday,http://usatoday.com/story/money/personalfinance/budget-and-spending/2018/08/10/average-cost-of-date-in-each-state/37292105/,Looking for love: How much does the average date cost in your state?
+177,usatoday,http://usatoday.com/story/opinion/voices/2018/09/29/brett-kavanaugh-jeff-flake-elevator-confirmation-blasey-ford-column/1459239002/,I confronted Jeff Flake over Brett Kavanaugh. Survivors like me won't stand for injustice.
+178,usatoday,http://usatoday.com/story/money/personalfinance/lifestages/2017/05/25/divorce-wiped-me-out-financially-heres-how-bounced-back/102047912/,Divorce wiped me out financially. Here's how I bounced back.
+179,usatoday,http://usatoday.com/story/tech/2018/09/28/facebook-says-50-million-user-accounts-were-breached/1455988002/,Facebook's 50 million account breach is already its biggest ever -- and may get even worse
+180,usatoday,http://usatoday.com/story/tech/reviewedcom/2018/09/29/these-5-best-amazon-deals-weekend/37986755/,These are the 5 best Amazon deals of the weekend
+181,usatoday,http://usatoday.com/story/sports/nba/cavaliers/2018/09/29/jr-smith-nba-tattoo-supreme-logo-cleveland-cavaliers/1476101002/,JR Smith fumes at NBA for threatening to fine him for new tattoo
+182,usatoday,http://usatoday.com/story/sports/ncaaf/2018/09/29/college-football-winners-losers-week-5-clemson-syracuse-west-virginia/1475779002/,Winners and losers from college football's Week 5 headlined by Clemson's close shave
+183,usatoday,http://usatoday.com/story/sports/mlb/columnist/bob-nightengale/2018/09/29/cubs-enjoying-pressure-brewers-battle-nl-central-title/1474670002/,Cubs enjoying pressure from Brewers in battle for NL Central title
+184,usatoday,http://usatoday.com/story/life/movies/2018/09/25/president-trump-new-political-documentaries-michael-moore-fahrenheit/1341163002/,Trump-era brings deluge of hot-topic documentaries: A political junkie's movie guide
+185,usatoday,http://usatoday.com/story/life/2018/09/29/bradley-cooper-and-lady-gaga-star-born-tops-week-entertainment/1378072002/,"Bradley Cooper and Lady Gaga in ""A Star Is Born"" tops the week in entertainment"
+186,usatoday,http://usatoday.com/story/sports/columnist/erik-brady/2018/09/28/brett-kavanaugh-right-he-can-no-longer-coach-girls-basketball/1459496002/,Opinion: Is Brett Kavanaugh right that he can no longer coach girls basketball?
+187,usatoday,http://usatoday.com/story/opinion/nation-now/2018/09/29/ice-preparing-detain-immigrant-children-longer-gets-budget-hike-column/1434274002/,"ICE preparing to detain immigrant children longer, and getting a budget increase"
+188,usatoday,http://usatoday.com/story/opinion/2018/09/27/kavanaugh-vs-ford-cries-out-investigation-before-vote-editorials-debates/1443189002/,Kavanaugh vs. Ford testimonies cry out for an investigation before a vote
+189,usatoday,http://usatoday.com/story/opinion/2018/09/28/brett-kavanaugh-senate-committee-vote-nomination-christine-blasey-ford-column/1454562002/,"Even with Jeff Flake's FBI investigation, Brett Kavanaugh Is unfit to serve"
+190,usatoday,http://usatoday.com/story/tech/columnist/baig/2018/09/28/what-we-know-50-million-facebook-were-exposed/1457248002/,"50 million Facebook accounts were exposed: What we know, what you can do"
+191,usatoday,http://usatoday.com/story/tech/2018/09/28/google-ceo-sundar-pichai-testify-before-congress-conservative-bias-charges/1457087002/,"Google CEO Sundar Pichai to testify before Congress, answer questions on conservative bias"
+192,usatoday,http://usatoday.com/story/tech/talkingtech/2018/09/28/how-much-money-can-delivering-food-grubhub-and-doordash-make/1436841002/,"Gig economy: Here's how much you can make delivering for Grubhub, Uber Eats and DoorDash"
+193,usatoday,http://usatoday.com/picture-gallery/travel/destinations/2018/09/28/awesome-rivers-around-the-world/37947111/,Awesome rivers around the world
+194,usatoday,http://usatoday.com/story/travel/destinations/2018/09/29/arrested-decay-historic-preservation/1469802002/,Arrested decay: Evocative historic structures preserved in place
+195,usatoday,http://usatoday.com/picture-gallery/travel/destinations/2018/09/28/25-must-visit-hidden-parks-americas-biggest-cities/1457601002/,Must-visit hidden parks in America’s 25 biggest cities
+196,usatoday,http://usatoday.com/story/travel/experience/america/theme-parks/2018/09/28/disney-world-halloween/1449416002/,Disney World Halloween: Fun and fantasy minus the fear
+197,usatoday,http://usatoday.com/story/tech/reviewedcom/2018/09/26/amazing-oled-tv-its-lowest-price-now/37947163/,This amazing OLED TV is at its lowest price—for now
+198,usatoday,http://usatoday.com/story/tech/reviewedcom/2018/09/25/best-affordable-robot-vacuums/37933179/,The best affordable robot vacuums of 2018
+199,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/steve-bannon-thinks-michael-avenatti-could-be-threat-trump-avenatti-thinks-so-too/?utm_term=.db853a964cba,"Steve Bannon thinks Michael Avenatti could be a threat to Trump in 2020. Avenatti thinks so, too."
+200,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/flake-flaked-how-fox-news-hosts-reacted-senators-call-delay-kavanaugh-vote/?utm_term=.ab04881d555f,Jeff Flake ‘flaked’: How Sean Hannity and Laura Ingraham reacted to senator’s Kavanaugh maneuver
+201,washingtonpost,https://www.washingtonpost.com/nation/2018/09/29/christine-blasey-fords-testimony-spurred-woman-name-her-alleged-rapist-state-senator-who-denies-accusation/?utm_term=.21b9faa737a6,"Christine Blasey Ford spurred a woman to name her alleged rapist: a state senator, who denies it"
+202,washingtonpost,https://www.washingtonpost.com/business/2018/09/29/teslas-elon-musk-settles-with-sec-paying-million-fine-resigning-board-chairman/,"Tesla’s Elon Musk settles with SEC, paying $20 million fine and resigning as board chairman"
+203,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/aclu-typically-stays-quiet-about-supreme-court-nominees-it-didnt-with-kavanaugh/?utm_term=.6caf284aaf2b,The ACLU typically stays neutral about Supreme Court nominees. It didn’t with Kavanaugh.
+204,washingtonpost,https://www.washingtonpost.com/local/who-is-julie-swetnick-the-third-kavanaugh-accuser/2018/09/26/91e16ed8-c1bc-11e8-97a5-ab1e46bb3bc7_story.html?utm_term=.bff825ac9474,"Who is Julie Swetnick, the third Kavanaugh accuser?"
+205,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/christine-blasey-fords-sisters-in-law-say-kavanaughs-testimony-was-evasive-belligerent/?utm_term=.420893fc281a,Christine Blasey Ford’s sisters-in-law say Kavanaugh’s testimony was confusing and ‘belligerent’
+206,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/least-one-senator-didnt-watch-kavanaugh-hearings-because-an-emergency-appendectomy/?utm_term=.8e0f486f0780,At least one senator didn’t watch the Kavanaugh hearings — because of an emergency appendectomy
+207,washingtonpost,https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/09/28/lil-waynes-tha-carter-v-is-finally-out-heres-what-you-need-to-know/,Lil Wayne’s ‘Tha Carter V’ is finally out. Here’s what you need to know.
+208,washingtonpost,https://www.washingtonpost.com/sports/2018/09/29/europe-extends-its-ryder-cup-lead-over-us-/?utm_term=.b356069f5d58,Europe holds a commanding Ryder Cup lead; pairings announced for Sunday’s singles matches
+209,washingtonpost,https://www.washingtonpost.com/entertainment/jack-black-really-wants-you-to-see-his-new-movie-he-paid-for-it-himself/2018/09/27/1e9a17b4-c0fd-11e8-9005-5104e9616c21_story.html?utm_term=.6231f8a3e58b,Jack Black really wants you to see his new movie. He paid for it himself.
+210,washingtonpost,https://www.washingtonpost.com/sports/2018/09/29/college-football-winners-losers-week-clemson-suddenly-looks-vulnerable/?utm_term=.49c8e92b8695,College football winners and losers Week 5: Clemson suddenly looks vulnerable
+211,washingtonpost,https://www.washingtonpost.com/world/national-security/fbi-reaches-out-to-second-woman-who-has-accused-brett-kavanaugh-of-sexual-misconduct/2018/09/29/365f959c-c3f8-11e8-8f06-009b39c3f6dd_story.html,FBI contacts second woman who has accused Brett Kavanaugh of sexual misconduct
+212,washingtonpost,https://www.washingtonpost.com/politics/courts_law/partisan-politics-and-kavanaughs-defiant-words-put-supreme-court-in-unwelcome-spotlight/2018/09/29/577657e4-c375-11e8-97a5-ab1e46bb3bc7_story.html,Partisan politics and Kavanaugh’s defiant words put Supreme Court in unwelcome spotlight
+213,washingtonpost,https://www.washingtonpost.com/politics/in-west-virginia-trump-turns-kavanaugh-nomination-fight-into-partisan-rallying-cry/2018/09/29/87fb5b2c-c41e-11e8-b338-a3289f6cb742_story.html?utm_term=.c179af21c941,"In West Virginia, Trump turns Kavanaugh nomination fight into partisan rallying cry"
+214,washingtonpost,https://www.washingtonpost.com/politics/2018/09/28/american-bar-association-had-kavanaugh-concerns-years-ago-republicans-dismissed-those-too/,"The American Bar Association had concerns about Kavanaugh 12 years ago. Republicans dismissed those, too."
+215,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/aclu-typically-stays-quiet-about-supreme-court-nominees-it-didnt-with-kavanaugh/?utm_term=.eaf36efc2768,The ACLU typically stays neutral about Supreme Court nominees. It didn’t with Kavanaugh.
+216,washingtonpost,https://www.washingtonpost.com/politics/for-two-nebraska-women-the-kavanaugh-hearings-test-their-view-of-their-country-of-trump-and-each-other/2018/09/29/a21c9552-c324-11e8-97a5-ab1e46bb3bc7_story.html,"For two Nebraska women, the Kavanaugh hearings test their view of their country, of Trump and each other"
+217,washingtonpost,https://www.washingtonpost.com/politics/2018/09/29/amy-klobuchars-big-brett-kavanaugh-moment-earned-rave-reviews-is-it-what-democrats-demand/,Amy Klobuchar’s big Brett Kavanaugh moment earned rave reviews. But is it what Democrats demand for 2020?
+218,washingtonpost,https://www.washingtonpost.com/news/opinions/wp/2018/09/29/if-we-want-to-protect-the-supreme-courts-legitimacy-kavanaugh-should-not-be-on-it/,"If we want to protect the Supreme Court’s legitimacy, Kavanaugh should not be on it"
+219,washingtonpost,https://www.washingtonpost.com/news/posteverything/wp/2018/09/28/feature/i-considered-exposing-my-rapist-then-i-thought-about-his-wife/,I tracked down my rapist. I also found his wife.
+220,washingtonpost,https://www.washingtonpost.com/outlook/kavanaugh-is-lying-his-upbringing-explains-why/2018/09/27/2b596314-c270-11e8-b338-a3289f6cb742_story.html,Kavanaugh is lying. His upbringing explains why.
+221,washingtonpost,https://www.washingtonpost.com/outlook/the-case-against-kavanaugh-isnt-just-about-sex-its-about-sexual-humiliation/2018/09/27/7ba9b4f0-c1d9-11e8-a1f0-a4051b6ad114_story.html,The case against Kavanaugh isn’t just about sex. It’s about sexual humiliation.
+222,washingtonpost,https://www.washingtonpost.com/outlook/many-teens-drink-rich-ones-like-kavanaugh-are-more-likely-to-abuse-alcohol/2018/09/28/6bb641aa-c27c-11e8-97a5-ab1e46bb3bc7_story.html,Many teens drink. Rich ones like Kavanaugh are more likely to abuse alcohol.
+223,washingtonpost,https://www.washingtonpost.com/opinions/global-opinions/the-united-states-still-lacks-a-realistic-policy-on-syria-and-iran/2018/09/29/914e1364-c34b-11e8-a1f0-a4051b6ad114_story.html,The United States still lacks a realistic policy on Syria and Iran
+224,washingtonpost,https://www.washingtonpost.com/world/national-security/it-breeds-resistance-even-among-conservatives-trumps-use-of-presidential-power-causes-alarm/2018/09/29/1769991a-bdbf-11e8-b7d2-0773aa1e33da_story.html,"‘It breeds resistance’: Even among conservatives, Trump’s use of presidential power causes alarm"
+225,washingtonpost,https://www.washingtonpost.com/news/local/wp/2018/09/28/feature/they-was-killing-black-people/,"In Tulsa, a century-old race massacre still haunts Black Wall Street"
+226,washingtonpost,https://www.washingtonpost.com/world/europe/while-britains-tories-bicker-over-brexit-jeremy-corbyns-radical-left-labour-is-wooing-voters-with-free-child-care-and-wind-farms/2018/09/28/5a61f2b2-c026-11e8-9f4f-a1b7af255aa5_story.html,"While Tories bicker over Brexit, Jeremy Corbyn’s ‘radical left’ Labour is wooing British voters with free child care and wind farms"
+227,washingtonpost,https://www.washingtonpost.com/world/the_americas/argentines-sacrifice-vacations-internet-and-even-food-as-economic-crisis-intensifies/2018/09/27/2fc10082-c01e-11e8-9f4f-a1b7af255aa5_story.html,"Argentines sacrifice vacations, Internet and even food as economic crisis intensifies"
+228,washingtonpost,https://www.washingtonpost.com/world/death-toll-in-indonesia-surpasses-380-after-earthquake-tsunami/2018/09/29/0de85990-c3c2-11e8-8f06-009b39c3f6dd_story.html,"Death toll in Indonesia from earthquake and tsunami could reach into the thousands, nation’s vice president says"
+229,washingtonpost,https://www.washingtonpost.com/world/the-scene-after-an-earthquake-and-tsunami-strikes-indonesia/2018/09/29/0bdacbb6-c3f3-11e8-97a5-ab1e46bb3bc7_gallery.html?utm_term=.a02a4323e97f,The scene after an earthquake and tsunami strike Indonesia
+230,washingtonpost,https://www.washingtonpost.com/politics/2018/09/30/sen-elizabeth-warren-says-she-will-take-hard-look-presidential-run/,Sen. Elizabeth Warren says she will take ‘hard look’ at presidential run
+231,washingtonpost,https://www.washingtonpost.com/news/voraciously/wp/2018/09/28/how-to-ditch-the-boring-trail-mix-and-eat-well-while-camping-out/,How to ditch the boring trail mix and eat well while camping out
+232,washingtonpost,https://www.washingtonpost.com/entertainment/jack-black-really-wants-you-to-see-his-new-movie-he-paid-for-it-himself/2018/09/27/1e9a17b4-c0fd-11e8-9005-5104e9616c21_story.html,Jack Black really wants you to see his new movie. He paid for it himself.
+233,washingtonpost,https://www.washingtonpost.com/lifestyle/magazine/meet-the-very-wealthy-very-private-couple-behind-washingtons-most-original-museum/2018/09/21/b843425a-9f29-11e8-83d2-70203b8d7b44_story.html,"Meet the very wealthy, very private couple behind Washington’s most original museum"
+234,washingtonpost,https://www.washingtonpost.com/news/in-sight/wp/2018/09/28/it-was-the-cubans-not-fidel-who-in-the-end-were-left-standing-to-now-decide-the-fate-of-their-country/,"‘It was the Cubans, not Fidel, who in the end were left standing, to now decide the fate of their country’"
+235,washingtonpost,https://www.washingtonpost.com/world/here-are-16-of-the-weeks-best-photos/2018/09/28/898bf246-be77-11e8-8792-78719177250f_gallery.html,Here are 16 of the week’s best photos
+236,washingtonpost,http://washingtonpost.com/world/national-security/fbi-reaches-out-to-second-woman-who-has-accused-brett-kavanaugh-of-sexual-misconduct/2018/09/29/365f959c-c3f8-11e8-8f06-009b39c3f6dd_story.html?tid=pm_pop,FBI contacts second woman who has accused Brett Kavanaugh of sexual misconduct
+237,washingtonpost,http://washingtonpost.com/politics/2018/09/28/american-bar-association-had-kavanaugh-concerns-years-ago-republicans-dismissed-those-too/?tid=pm_pop,"The American Bar Association had concerns about Kavanaugh 12 years ago. Republicans dismissed those, too."
+238,washingtonpost,http://washingtonpost.com/outlook/kavanaugh-is-lying-his-upbringing-explains-why/2018/09/27/2b596314-c270-11e8-b338-a3289f6cb742_story.html?tid=pm_pop,Kavanaugh is lying. His upbringing explains why.
+239,washingtonpost,http://washingtonpost.com/politics/for-two-nebraska-women-the-kavanaugh-hearings-test-their-view-of-their-country-of-trump-and-each-other/2018/09/29/a21c9552-c324-11e8-97a5-ab1e46bb3bc7_story.html?tid=pm_pop,"For two Nebraska women, the Kavanaugh hearings test their view of their country, of Trump and each other"
+240,washingtonpost,http://washingtonpost.com/politics/2018/09/29/amy-klobuchars-big-brett-kavanaugh-moment-earned-rave-reviews-is-it-what-democrats-demand/?tid=pm_pop,Amy Klobuchar’s big Brett Kavanaugh moment earned rave reviews. But is it what Democrats demand for 2020?
+241,nytimes,http://nytimes.com/2018/09/28/dining/fast-favorites.html,Fast Favorites
+242,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-blasey-metoo-supreme-court.html,"Kavanaugh Battle Shows the Power, and the Limits, of #MeToo Movement"
+243,nytimes,http://nytimes.com/2018/09/28/us/politics/kavanaugh-testimony-supreme-court.html,"A Bitter Nominee, Questions of Neutrality, and a Damaged Supreme Court"
+244,nytimes,http://nytimes.com/interactive/2018/09/28/us/politics/kavanaugh-ford-testimony-investigation.html,Brett Kavanaugh Testimony: Three Inconsistencies the F.B.I. Investigation Could Address
+245,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-republicans-midterms.html,Kavanaugh Could Help G.O.P. in Senate Midterms. But Not in House Races.
+246,nytimes,http://nytimes.com/2018/09/29/us/politics/kavanaugh-fbi-inquiry.html,Washington Braces for Battle as F.B.I. Contacts Potential Witnesses to Kavanaugh Claims
+247,nytimes,http://nytimes.com/2018/09/29/us/politics/brett-kavanaugh-trump-men.html,Kavanaugh Borrows From Trump’s Playbook on White Male Anger
+248,nytimes,http://nytimes.com/2018/09/29/business/tesla-musk-sec-settlement.html,Elon Musk Steps Down as Tesla’s Chairman in Settlement With S.E.C. Over Go-Private Tweet
+249,nytimes,http://nytimes.com/2018/09/29/business/economy/home-prices-housing-market-slowdown.html,"Housing Market Slows, as Rising Prices Outpace Wages"
+250,nytimes,http://nytimes.com/2018/09/29/upshot/mini-recession-2016-little-known-big-impact.html,The Most Important Least-Noticed Economic Event of the Decade
+251,nytimes,http://nytimes.com/2018/09/29/world/asia/indonesia-tsunami-sulawesi-palu.html,"Indonesia Tsunami and Quake Devastate an Island, Killing Hundreds"
+252,nytimes,http://nytimes.com/2018/09/29/health/memorial-sloan-kettering-cancer-biotech-ethics.html,Sloan Kettering Executive Turns Over Windfall Stake in Biotech Start-Up
+253,nytimes,http://nytimes.com/2018/09/29/arts/11-of-our-best-weekend-reads.html,11 of Our Best Weekend Reads
+254,nytimes,http://nytimes.com/2018/09/27/briefing/week-in-good-news-mitraclip-robyn.html,"The Week in Good News: A Medical Breakthrough, a Sound Journey, Robyn"
+255,nytimes,http://nytimes.com/interactive/2018/09/28/briefing/28weeklynewsquiz.html,News Quiz: Test Your Knowledge of the Week’s Headlines
+256,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/sex-education-ethics-assault-boys.html,Opinion | We Can’t Just Let Boys Be Boys
+257,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/brett-kavanaugh-ralph-club.html,Opinion | Capitol Hill Ralph Club
+258,nytimes,http://nytimes.com/2018/09/29/opinion/brett-kavanaugh-beer-politics.html,Opinion | Brett Kavanaugh Loves His Beer
+259,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/my-friend-wrote-a-book-before-he-died-could-i-read-his-handwriting.html,Opinion | My Friend Wrote a Book Before He Died. Could I Read His Handwriting?
+260,nytimes,http://nytimes.com/2018/09/28/opinion/sunday/love-hip-hop-reality-television.html,Opinion | Why I Love Reality Television
+261,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/fury-is-a-political-weapon-and-women-need-to-wield-it.html,Opinion | Fury Is a Political Weapon. And Women Need to Wield It.
+262,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/christians-politics-belief.html,Opinion | How Do Christians Fit Into the Two-Party System? They Don’t
+263,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/sexual-assault-women-kavanaugh.html,Opinion | Make My Sexual Assault Count
+264,nytimes,http://nytimes.com/2018/09/29/sunday-review/trump-2020-reality-tv.html,Why Trump Will Win a Second Term
+265,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/brett-kavanaugh-drinking-blackouts.html,Opinion | Kavanaugh and the Blackout Theory
+266,nytimes,http://nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html,Opinion | In Praise of Mediocrity
+267,nytimes,http://nytimes.com/2018/09/27/magazine/deborah-eisenberg-chronicler-of-american-insanity.html,"Deborah Eisenberg, Chronicler of American Insanity"
+268,nytimes,http://nytimes.com/2018/09/26/books/review/irad-kimhi-thinking-and-being.html,"Unpublished and Untenured, a Philosopher Inspired a Cult Following"
+269,nytimes,http://nytimes.com/2018/09/29/style/spending-forever-together.html,How to Know if You Should Spend Forever Together
+270,nytimes,http://www.nytimes.com/2018/09/28/dining/fast-favorites.html,Fast Favorites
+271,nytimes,http://www.nytimes.com/2018/09/29/us/politics/kavanaugh-blasey-metoo-supreme-court.html,"Kavanaugh Battle Shows the Power, and the Limits, of #MeToo Movement"
+272,nytimes,http://www.nytimes.com/2018/09/28/us/politics/kavanaugh-testimony-supreme-court.html,"A Bitter Nominee, Questions of Neutrality, and a Damaged Supreme Court"
+273,nytimes,http://www.nytimes.com/interactive/2018/09/28/us/politics/kavanaugh-ford-testimony-investigation.html,Brett Kavanaugh Testimony: Three Inconsistencies the F.B.I. Investigation Could Address
+274,nytimes,http://www.nytimes.com/2018/09/29/us/politics/kavanaugh-republicans-midterms.html,Kavanaugh Could Help G.O.P. in Senate Midterms. But Not in House Races.
+275,nytimes,http://www.nytimes.com/2018/09/29/us/politics/kavanaugh-fbi-inquiry.html,Washington Braces for Battle as F.B.I. Contacts Potential Witnesses to Kavanaugh Claims
+276,nytimes,http://www.nytimes.com/2018/09/29/us/politics/brett-kavanaugh-trump-men.html,Kavanaugh Borrows From Trump’s Playbook on White Male Anger
+277,nytimes,http://www.nytimes.com/2018/09/29/business/tesla-musk-sec-settlement.html,Elon Musk Steps Down as Tesla’s Chairman in Settlement With S.E.C. Over Go-Private Tweet
+278,nytimes,http://www.nytimes.com/2018/09/29/business/economy/home-prices-housing-market-slowdown.html,"Housing Market Slows, as Rising Prices Outpace Wages"
+279,nytimes,http://www.nytimes.com/2018/09/29/upshot/mini-recession-2016-little-known-big-impact.html,The Most Important Least-Noticed Economic Event of the Decade
+280,nytimes,http://www.nytimes.com/2018/09/29/world/asia/indonesia-tsunami-sulawesi-palu.html,"Indonesia Tsunami and Quake Devastate an Island, Killing Hundreds"
+281,nytimes,http://www.nytimes.com/2018/09/29/health/memorial-sloan-kettering-cancer-biotech-ethics.html,Sloan Kettering Executive Turns Over Windfall Stake in Biotech Start-Up
+282,nytimes,http://www.nytimes.com/2018/09/29/arts/11-of-our-best-weekend-reads.html,11 of Our Best Weekend Reads
+283,nytimes,http://www.nytimes.com/2018/09/27/briefing/week-in-good-news-mitraclip-robyn.html,"The Week in Good News: A Medical Breakthrough, a Sound Journey, Robyn"
+284,nytimes,http://www.nytimes.com/interactive/2018/09/28/briefing/28weeklynewsquiz.html,News Quiz: Test Your Knowledge of the Week’s Headlines
+285,nytimes,http://www.nytimes.com/2018/09/29/opinion/sunday/sex-education-ethics-assault-boys.html,Opinion | We Can’t Just Let Boys Be Boys
+286,nytimes,http://www.nytimes.com/2018/09/29/opinion/sunday/brett-kavanaugh-ralph-club.html,Opinion | Capitol Hill Ralph Club
+287,cnn,http://cnn.com/2017/03/04/vr/how-to-watch-vr,How to Watch VR
+288,cnn,http://cnn.com/2018/09/28/entertainment/murphy-brown-hillary-clinton/index.html,How Hillary Clinton's 'Murphy Brown' cameo came to be
+289,cnn,http://cnn.com/2018/09/28/entertainment/snl-preview/index.html,'SNL' won't have to strain for material in season premiere
+290,cnn,http://cnn.com/2018/09/28/entertainment/night-school-the-oath-tiffany-haddish-review/index.html,"Tiffany Haddish fans: Skip 'Night School,' but take 'The Oath'"
+291,cnn,http://cnn.com/2018/09/28/entertainment/lebron-james-student-athlete/index.html,LeBron James HBO documentary 'Student Athlete' indicts NCAA
+292,cnn,http://cnn.com/2018/09/28/entertainment/sophie-turner-game-thrones-finale/index.html,Sophie Turner: 'Game of Thrones' viewers will be divided over show's ending
+293,cnn,http://cnn.com/2018/09/28/entertainment/god-friended-me-review/index.html,'God Friended Me' makes request for continued viewing
+294,cnn,http://cnn.com/2018/09/28/entertainment/netflix-hulu-amazon-october/index.html,See what's streaming in October
+295,cnn,http://cnn.com/2018/09/27/entertainment/smallfoot-review/index.html,'Smallfoot' takes animated steps in the right direction
+296,cnn,http://cnn.com/2018/09/28/entertainment/lil-wayne-new-album/index.html,Lil Wayne released 'Tha Carter V'
+297,cnn,http://cnn.com/2018/09/28/entertainment/jwoww-husband-divorce/index.html,"JWoww, Roger divorce: 'Jersey Shore' star's husband vows to win her back"
+298,cnn,http://cnn.com/2018/09/27/entertainment/tom-hanks-mister-rogers/index.html,The first picture of Tom Hanks as Mister Rogers is what you need today
+299,cnn,http://cnn.com/2018/09/28/entertainment/rose-mcgowan-asia-argento/index.html,Rose McGowan apologizes to Asia Argento
+300,cnn,http://cnn.com/2018/09/27/entertainment/lil-xan-cheetos/index.html,Lil Xan can't stay away from Flamin' Hot Cheetos
+301,cnn,http://cnn.com/2018/09/26/entertainment/animal-house-era/index.html,"Taking another look at pop culture's 'Animal House' era, as Kavanaugh hearings unfold"
+302,cnn,http://cnn.com/2018/09/27/entertainment/prince-university-of-minnesota-honor-trnd/index.html,Prince is posthumously awarded an honorary degree by the University of Minnesota
+303,cnn,http://cnn.com/2018/09/28/entertainment/tiffany-haddish-in-the-oath/index.html,Tiffany Haddish showcases comedy range in 'The Oath'
+304,cnn,http://cnn.com/2018/09/26/entertainment/this-is-us-season-3-premiere/index.html,'This Is Us' premiere revealed a new mystery and what comes next
+305,cnn,http://cnn.com/2018/09/25/entertainment/bill-cosby-analysis/index.html,Bill Cosby's last lesson: Separating the public person from the private one
+306,cnn,http://cnn.com/2018/09/26/entertainment/shia-labeouf-divorce/index.html,Shia LaBeouf and wife Mia Goth divorcing
+307,cnn,http://cnn.com/2018/09/26/entertainment/dancing-stars-juniors-cast/index.html,Meet the cast of 'Dancing With the Stars: Juniors'
+308,cnn,http://cnn.com/2018/09/25/entertainment/pete-davidson-ariana-death-threats/index.html,Pete Davidson: I got death threats over Ariana Grande
+309,cnn,http://cnn.com/2018/09/24/entertainment/carrie-underwood-chart-history/index.html,Carrie Underwood makes chart history
+310,cnn,http://cnn.com/2018/09/24/entertainment/north-west-fashion-show/index.html,North West makes her runway debut
+311,cnn,http://cnn.com/2018/09/23/entertainment/colette-and-lgbtq-movies/index.html,"'Colette,' 'Lizzie' filter LGBT history through 19th century prism"
+312,cnn,http://cnn.com/2018/09/20/entertainment/life-itself-review/index.html,'This is Us' creator stumbles into melodrama 'Life Itself'
+313,cnn,http://cnn.com/2018/09/27/entertainment/the-old-man-and-the-gun-review/index.html,Robert Redford provides ammo for 'The Old Man and the Gun'
+314,cnn,http://cnn.com/2018/09/20/movies/fahrenheit-119-review/index.html,"Michael Moore turns up the heat in passionate, disjointed 'Fahrenheit 11/9'"
+315,cnn,https://money.cnn.com/2018/08/30/media/nbc-ronan-farrow-rich-mchugh-harvey-weinstein/index.html,Former NBC producer who worked on Ronan Farrow's Harvey Weinstein reporting breaks silence
+316,cnn,https://money.cnn.com/2018/08/14/media/trump-media-hall-of-mirrors/index.html,Stelter: Trump and his media boosters live in a hall of mirrors
+317,cnn,https://money.cnn.com/2018/08/02/media/moviepass-defends-business/index.html,MoviePass: 'Talk of our demise is greatly exaggerated'
+318,cnn,https://money.cnn.com/2018/07/19/media/ruper-murdoch-fox-disney-sinclair/index.html,Rupert Murdoch's summer of good fortune
+319,cnn,https://www.cnn.com/2018/07/25/cnn-underscored/best-summer-beach-reads-shop/index.html?iid=CNNEntPartnerZoneUnderscored,The best new beach reads to enjoy this summer
+320,cnn,https://www.cnn.com/2018/01/30/cnn-underscored/best-celebrity-beauty-products-shop/index.html?iid=CNNEntPartnerZoneUnderscored,The best celebrity beauty products to shop right now
+321,cnn,https://www.cnn.com/2018/07/30/cnn-underscored/affordable-outdoor-projectors-shop/index.html?iid=CNNEntPartnerZoneUnderscored,The best affordable outdoor projectors to shop right now
+322,cnn,http://money.cnn.com/2018/09/29/technology/facebook-hack-what-to-do-if-youre-affected/index.html,Facebook hack: What to do if you're affected
+323,cnn,http://money.cnn.com/2018/09/28/news/companies/lendingclub-sec-settlement/index.html,SEC charges LendingClub unit with mishandling investors' money
+324,cnn,http://money.cnn.com/2018/09/28/investing/tarp-ten-years-later-investing-stocks/index.html,"10 years after the crisis, some investors are still scared of stocks"
+325,cnn,http://money.cnn.com/2018/09/28/news/companies/sears-penny-stock/index.html,Sears is now a penny stock
+326,cnn,http://money.cnn.com/2018/09/28/media/cbs-moonves-new-york-district-attorney/index.html,New York DA probing allegations of sexual misconduct at CBS
+327,cnn,http://money.cnn.com/2018/09/28/news/companies/jcpenney-stock-ceo-cfo-department-stores/index.html,JCPenney is now without a CEO or a CFO
+328,cnn,http://money.cnn.com/2018/09/28/investing/stocks-markets-third-quarter/index.html,The S&P 500 just had its best quarter since 2013
+329,nbcnews,https://www.nbcsports.com/video/2018-ryder-cup-tiger-woods-pissed-about-losing?cid=eref:nbcnews:video,2018 Ryder Cup: Tiger Woods pissed about losing
+330,nbcnews,https://www.nbcnews.com/news/sports,"Live Streams, Video, News, Schedules, Scores and more"
+331,nbcnews,https://soccer.nbcsports.com/2018/09/28/cristiano-ronaldo-threatens-to-sue-for-report-of-rape-allegations/?cid=eref:nbcnews:text,Cristiano Ronaldo threatens to sue for report of rape allegations
+332,nbcnews,https://profootballtalk.nbcsports.com/2018/09/29/before-new-ad-campaign-nike-almost-dropped-kaepernick/?cid=eref:nbcnews:text,"Before new ad campaign, Nike almost dropped Kaepernick"
+333,nbcnews,https://mlb.nbcsports.com/2018/09/29/the-yankees-set-a-new-single-season-home-run-record/?cid=eref:nbcnews:text,The Yankees set a new single-season home run record
+334,nbcnews,https://nhl.nbcsports.com/2018/09/28/grittys-impactful-first-week-continues-with-tonight-show-appearance/?cid=eref:nbcnews:text,Gritty’s impactful first week continues with ‘Tonight Show’ appearance

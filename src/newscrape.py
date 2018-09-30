@@ -12,7 +12,7 @@ csv = "../data/west_wing_reads.csv"
 df = pd.read_csv(csv)
 
 
-# In[22]:
+# In[42]:
 
 
 top_10 = """
@@ -43,7 +43,7 @@ for i, publish_link in enumerate(top_10_l):
     
     publisher = {}
     
-    articles = paper.articles[:15]
+    articles = paper.articles[:num_of_articles]
     articlesToDict = []
     
     for content in articles:
