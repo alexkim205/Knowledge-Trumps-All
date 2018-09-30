@@ -1,12 +1,25 @@
 extends layout
 
+block header
+  link(rel='stylesheet', href='/stylesheets/index.css')
+  script.
+    exportedFunctions.setupIndex();
+
 block content
   h1= title
 
   .container
-    a.foo_link(href='article/1', target='_self') Article Profile
+    ul#list-of-articles
+      
+  form(action="")
+    label(for="your-url") Submit an article url
+    input(type='text', id='your-url', name="url")
+    button(onclick="search_url()") submit
+
   .container
-    a.foo_link(href='publisher/1', target='_self') Publisher Profile
+    a.foo_link(href='/article/fox-article', target='_self') Article Profile
+  .container
+    a.foo_link(href='/publisher/fox-news', target='_self') Publisher Profile
 
   footer test
 

@@ -1,0 +1,25 @@
+{
+  "top_articles": [{
+      "name": "Confirm Brett Kavanaugh",
+      "url": "https://www.wsj.com/articles/confirm-brett-kavanaugh-1538089143"
+    },
+    {
+      "name": "Obamacare benchmark premium rates to drop for first time as number of insurers increase",
+      "url": "https://www.washingtontimes.com/news/2018/sep/27/obamacare-premiums-drop-first-time/"
+    },
+    {
+      "name": "Once again, the U.S. has Israel's back",
+      "url": "https://www.washingtontimes.com/news/2018/sep/27/us-helps-israel-after-russia-shoot-down-syria/"
+    },
+    {
+      "name": "Final reading on Q2 GDP confirms 4.2% gain, the fastest rise in nearly four years",
+      "url": "https://www.cnbc.com/2018/09/27/final-us-gross-domestic-product-q2-2018.html?__source=sharebar%7Ctwitter&par=sharebar"
+    },
+    {
+      "name": "Interior Department sting results in several opioid arrests in North Carolina",
+      "url": "https://thehill.com/business-a-lobbying/408707-interior-department-sting-results-in-multiple-opioid-arrests-in-north"
+    }
+
+
+  ]
+}

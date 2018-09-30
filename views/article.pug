@@ -1,5 +1,10 @@
 extends layout
 
+block header  
+  link(rel='stylesheet', href='/stylesheets/article.css')
+  script.
+    exportedFunctions.setupArticle();
+
 block content
   h1= title
   h2= id
