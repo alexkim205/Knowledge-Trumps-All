@@ -17,14 +17,15 @@ $(document).ready(function () {
   });
 
   $("#button").click(function () {
-    url = $("#your-url").text()
+    $url = $("#your-url").val()
     console.log("BUTTON CLICKED")
+    console.log($url)
 
     $.ajax({
       type: "POST",
       url: "https://us-central1-cdss-2018.cloudfunctions.net/function-article-info",
       data: {
-        name: "url"
+        name: $url
       },
       success: function (data) {
         console.log(data);
