@@ -29,7 +29,11 @@ app.use(sassMiddleware({
 }));
 app.use(express.static(path.join(__dirname, 'public')));
 
+<<<<<<< HEAD
 app.use('/', indexRouter);
+=======
+app.use('/', top_readsRouter);
+>>>>>>> 9339f7ac26b9b54596c9556074bb7714382aea4a
 app.use('/article', articleRouter)
 app.use('/publisher', publisherRouter);
 
