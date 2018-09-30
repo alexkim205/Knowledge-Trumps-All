@@ -6,21 +6,21 @@ block header
     exportedFunctions.setupIndex();
 
 block content
-  h1= title
 
   .container
-    ul#list-of-articles
+    h1= title
+    //- ul#list-of-articles
       
-  form(action="" id="url-search")
-    label(for="your-url") Submit an article url
-    input(type='text', id='your-url', name="url")
-    button(type='button', id='button') submit
+  .search-container 
+    form(action="" id="url-search")
+      label(for="your-url")
+      .input-box 
+        input(type='text', id='your-url', name="url")
+        button(type='button', id='button') submit
 
-  .container
-    a.foo_link(href='/article/fox-article', target='_self') Article Profile
-  .container
-    a.foo_link(href='/publisher/fox-news', target='_self') Publisher Profile
+  //- .container
+  //-   a.foo_link(href='/article/fox-article', target='_self') Article Profile
+  //- .container
+  //-   a.foo_link(href='/publisher/fox-news', target='_self') Publisher Profile
 
-
-  footer test
 

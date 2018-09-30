@@ -6,25 +6,24 @@ block header
     exportedFunctions.setupArticle();
 
 block content
-  h1= title
-  h2= id
 
   .container
-    a.foo_link(href='/article/fox-article', target='_self') Article Profile
-  .container
-    a.foo_link(href='/publisher/fox-news', target='_self') Publisher Profile
-  .container
-    h2 How does this fare against other articles from this publisher?
-    
-    .article_compare
+    h3 "#{a_title}"
 
-    h2 How does this publisher stack up against other publishers?
+  .sub-container
+    for w in keywords
+      span #{w}    
 
-    .publisher_compare
+  .summary
+    h3 Summary
+    p 
+    | #{summary}
 
-    h2 How does this article fare against Trump's picks?
-
-    .trump_compare
-
-
-  footer test
+  .summary
+    img(src="/images/1.png", alt="", style="width:33%")
+    img(src="/images/3.png", alt="", style="width:33%")
+    img(src="/images/2.png", alt="", style="width:33%")
+  
+  .summary
+    img(src="/images/4.png", alt="", style="width:100%; margin: 0 auto;")
+  

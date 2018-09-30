@@ -1,0 +1,48 @@
+ul {
+  li {
+    margin: 1em 0 a {}
+  }
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 2em;
+}
+
+.search-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em;
+  background-color: white;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 5px 1px -2px rgba(0, 0, 0, 0.72);
+  -moz-box-shadow: 0px 5px 1px -2px rgba(0, 0, 0, 0.72);
+  box-shadow: 0px 5px 1px -2px rgba(0, 0, 0, 0.72);
+  text-align: center;
+
+  .input-box {
+    input {
+      border: 0;
+      background-color: aliceblue;
+      padding: 10px;
+      font-size: 2em;
+    }
+
+    button {
+      background-color: #555555;
+      /* border: none; */
+      color: white;
+      padding: 10px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      min-height: inherit;
+      margin: 20px;
+    }
+  }
+
+
+}
