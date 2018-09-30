@@ -11,10 +11,10 @@ block content
   .container
     ul#list-of-articles
       
-  form(action="")
+  form(action="" id="url-search")
     label(for="your-url") Submit an article url
     input(type='text', id='your-url', name="url")
-    button(onclick="search_url()") submit
+    button(type='button', id='button') submit
 
   .container
     a.foo_link(href='/article/fox-article', target='_self') Article Profile

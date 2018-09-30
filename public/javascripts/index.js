@@ -2,10 +2,10 @@ $(document).ready(function () {
 
   var slugify = require('slugify')
 
-  $.getJSON( "../data/top_articles.json", function( data ) {
+  $.getJSON("../data/top_articles.json", function (data) {
 
     var items = [];
-    $list = $( "#list-of-articles")
+    $list = $("#list-of-articles")
 
     // console.log(data.top_articles)
     data.top_articles.forEach(e => {
@@ -13,11 +13,12 @@ $(document).ready(function () {
       $li = $('<li><a href="/article/' + slugify(e.name) + '">' + e.name + '</a></li>')
       $list.append($li)
     });
-   
+
   });
 
-  function search_url() {
+  $("#button").click(function () {
     url = $("#your-url").text()
+    console.log("BUTTON CLICKED")
 
     $.ajax({
       type: "POST",
@@ -25,12 +26,12 @@ $(document).ready(function () {
       data: {
         name: "url"
       },
-      success: function(data) {
+      success: function (data) {
         console.log(data);
         //do something when request is successfull
       },
       dataType: "json"
-    });
-  }
+    })
+  })
 
 })
