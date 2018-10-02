@@ -1,6 +1,7 @@
 src/.ipynb_checkpoints
 # *~
 src/google_cloud_api.json
+data
 
 # Created by https://www.gitignore.io/api/node
 
